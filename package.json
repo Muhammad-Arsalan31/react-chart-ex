@@ -1,0 +1,20 @@
+{
+  "name": "react-chartjs-example",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chart.js": "^3.7.0",
+    "faker": "^6.6.6",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^4.0.1",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.7.2"
+  }
+}
